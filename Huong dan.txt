@@ -1,0 +1,6 @@
++ Huong dan goc
+https://learningprogramming.net/java/jsp-servlet/form-validation-in-jsp-servlet/
+
++ Trang de doc hieu cac @anotation
+https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#section-builtin-constraints
+
